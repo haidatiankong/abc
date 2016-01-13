@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"1111");
+//    NSLog(@"1111");
+    
+    NSLog(@"github2:2222");
+    
+    NSLog(@"github:3333");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
