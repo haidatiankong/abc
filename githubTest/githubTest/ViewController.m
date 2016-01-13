@@ -22,9 +22,11 @@
     NSLog(@"github2:2222");
     
     
-    NSLog(@"github:3333");
+    
 
     NSLog(@"github2:33");
+    
+    NSLog(@"github:ddd");
 
     
     // Do any additional setup after loading the view, typically from a nib.
